@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="24" viewBox="0 0 109 24" role="img" aria-labelledby="title">
+  <title id="title">Paper: arXiv</title>
+  <clipPath id="badge"><rect width="109" height="24" rx="4"/></clipPath>
+  <g clip-path="url(#badge)">
+    <rect width="66" height="24" fill="#263343"/>
+    <rect x="66" width="43" height="24" fill="#b44b4b"/>
+  </g>
+  <g id="icon" transform="translate(7 5)" fill="none" stroke="#fff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 1.5h5L11.5 5v7.5H3zM8 1.5V5h3.5M5 7.5h4M5 10h4"/>
+  </g>
+  <g fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="11" text-anchor="middle">
+    <text x="43" y="16">Paper</text>
+    <text x="87.5" y="16">arXiv</text>
+  </g>
+</svg>

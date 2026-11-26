@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="113" height="24" viewBox="0 0 113 24" role="img" aria-labelledby="title">
+  <title id="title">Project: Page</title>
+  <clipPath id="badge"><rect width="113" height="24" rx="4"/></clipPath>
+  <g clip-path="url(#badge)">
+    <rect width="71" height="24" fill="#263343"/>
+    <rect x="71" width="42" height="24" fill="#347fb5"/>
+  </g>
+  <g id="icon" transform="translate(7 5)" fill="none" stroke="#fff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="7" cy="7" r="5.3"/><path d="M1.7 7h10.6M7 1.7C4 4.5 4 9.5 7 12.3M7 1.7c3 2.8 3 7.8 0 10.6"/>
+  </g>
+  <g fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="11" text-anchor="middle">
+    <text x="45.5" y="16">Project</text>
+    <text x="92" y="16">Page</text>
+  </g>
+</svg>
